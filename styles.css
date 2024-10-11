@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: chocolate;
+}
+
+.beige {
+    background-color: beige;
+    height: 10vh;
+}
+
+.negro {
+    background-color: black;
+    height: 10vh;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
